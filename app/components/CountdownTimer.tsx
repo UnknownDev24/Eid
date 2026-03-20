@@ -17,7 +17,7 @@ export default function CountdownTimer() {
 
   useEffect(() => {
     setIsClient(true);
-    
+
     const interval = setInterval(() => {
       const now = new Date().getTime();
       const distance = TARGET_DATE - now;
