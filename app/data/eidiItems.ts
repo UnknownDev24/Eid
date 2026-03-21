@@ -115,7 +115,7 @@ export const eidiItems: EidiItem[] = [
     description: 'A very special message locked away.',
     personalMessage: 'Enter our special date to see this! (Hint: Our Anniversary)',
     isLocked: true,
-    password: '1234',
+    password: '1905',
     surpriseContent: 'Eid Mubarak Jaanu! Even though we are from different worlds, my world revolves around you. Hope this little virtual Eidi brings a smile to your face. I love you! ❤️',
   },
   {
@@ -125,7 +125,7 @@ export const eidiItems: EidiItem[] = [
     description: 'Something you\'ve been wanting for a long time.',
     personalMessage: 'Only the key holder can open this treasure.',
     isLocked: true,
-    password: '1234',
+    password: '1905',
     surpriseContent: 'Pack your bags! We are going on a romantic weekend getaway next month! ✨✈️',
   }
 ];
