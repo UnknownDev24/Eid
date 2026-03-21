@@ -108,7 +108,7 @@ export default function WishlistDrawer({ isOpen, onClose }: Props) {
                   onClick={handleShare}
                   className="w-full py-4 bg-gold text-purple-deep font-bold rounded-xl hover:bg-gold-light transition-colors flex items-center justify-center gap-2"
                 >
-                  <Share2 className="w-5 h-5" /> Share with Bae 💕
+                  <Share2 className="w-5 h-5" /> Share with Bubu 💕
                 </button>
               </div>
             )}
